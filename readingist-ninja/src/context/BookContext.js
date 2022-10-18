@@ -25,8 +25,6 @@ const BookContextProvider =({ children })=>{
 };
 export default BookContextProvider;
 
-
-
 // [
 //     {title: 'Kingdom of wind', author: 'Joy', id: 1},
 //     {title: 'Kingdom of fire', author: 'Yun', id: 2},
